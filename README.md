@@ -19,7 +19,7 @@ Color Switch is an engaging game where players control a moving object that must
    ```
    cd Color-Switch-Game
    ```
-5) Install the required dependencles using pip
+5) Install the required dependencies using pip
    ```
    pip install -r requirements.txt
    ```
